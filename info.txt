@@ -1,0 +1,20 @@
+First download selenium - if you already have it move on to the next step.
+
+	Sudo apt-get install selenium OR pip3 install selenium
+	
+	Now you need to install your desired webdriver for selenium
+	Search "selenium [web browser of choice] webdriver" online 
+	Download the right webdriver for your web browser, you need to find your web browser version.
+	
+	After that unzip the webdriver in your downloads
+	Now you need to move it to /usr/local/bin. 
+	Type mv ~/Downloads/yourwebdrivername /usr/local/bin
+	Now you have selenium
+
+Add your information to "secrets.py"
+Type python3 yt.py and enjoy!
+
+
+
+My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
+
