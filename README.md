@@ -1,6 +1,8 @@
 # YT-history-deleter
 Deletes your YouTube history based on what number you input
 
-Uses selenium to delete your video history.
+Uses selenium and python3
 
 Setup is in "info.txt"
+
+
