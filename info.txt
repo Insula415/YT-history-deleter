@@ -14,7 +14,6 @@ First download selenium - if you already have it move on to the next step.
 Add your information to "secrets.py"
 Type python3 yt.py and enjoy!
 
-
-
-My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
+Thanks, 
+Insula
 
